@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "6529949066",
+    "project_id": "skilltok-9c23d",
+    "storage_bucket": "skilltok-9c23d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6529949066:android:a3f87f605468ac6b507c73",
+        "android_client_info": {
+          "package_name": "com.SkillTokSA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6529949066-0rqehqtmtca3hd5nl5jirgrd55i11u4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6a2wUoOjNYuPoSOyKHuvoAy3JM0lZbKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6529949066-0rqehqtmtca3hd5nl5jirgrd55i11u4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6529949066:android:b2c6fd29765be0a6507c73",
+        "android_client_info": {
+          "package_name": "com.skilltokbare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6529949066-0rqehqtmtca3hd5nl5jirgrd55i11u4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6a2wUoOjNYuPoSOyKHuvoAy3JM0lZbKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6529949066-0rqehqtmtca3hd5nl5jirgrd55i11u4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6529949066:android:4ce8742a6e3909e9507c73",
+        "android_client_info": {
+          "package_name": "com.skilltokfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6529949066-0rqehqtmtca3hd5nl5jirgrd55i11u4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6a2wUoOjNYuPoSOyKHuvoAy3JM0lZbKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6529949066-0rqehqtmtca3hd5nl5jirgrd55i11u4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6529949066:android:da6fa9108035d5d9507c73",
+        "android_client_info": {
+          "package_name": "com.skilltoksa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6529949066-0rqehqtmtca3hd5nl5jirgrd55i11u4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6a2wUoOjNYuPoSOyKHuvoAy3JM0lZbKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6529949066-0rqehqtmtca3hd5nl5jirgrd55i11u4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

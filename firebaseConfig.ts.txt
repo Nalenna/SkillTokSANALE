@@ -1,0 +1,11 @@
+// firebaseConfig.ts
+
+// This file is intentionally left mostly empty.
+// The @react-native-firebase library handles initialization via the google-services.json (Android)
+// and GoogleService-Info.plist (iOS) files.
+// You can import the services you need directly in your components, for example:
+// import auth from '@react-native-firebase/auth';
+// import firestore from '@react-native-firebase/firestore';
+// import storage from '@react-native-firebase/storage';
+
+// This setup prevents re-initialization errors and follows the library's best practices.
